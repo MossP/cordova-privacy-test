@@ -1,0 +1,35 @@
+{
+    "name": "cordova-plugin-privacyplugin",
+    "version": "0.0.1",
+    "description": "An Android Cordova plugin that allows users to disable privacy.",
+    "cordova": {
+      "id": "cordova-plugin-privacyplugin",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/stanidesis/toastyplugin.git"
+    },
+    "keywords": [
+      "Toast",
+      "Notification",
+      "Message",
+      "Alert",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ],
+    "author": "Moss Palmer",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/MossP/cordova-privacy-test/issues"
+    },
+    "homepage": "https://github.com/MossP/cordova-privacy-test/"
+  }
